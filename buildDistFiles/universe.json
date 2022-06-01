@@ -1,0 +1,17 @@
+{
+    "massTransferRate": 25.0,
+    "massTransferRestriction": 50000.0,
+    "heatScale": 0.01,
+    "tailEmissionRate": 8.0,
+    "gravConst": 0.0006674,
+    "particleDensity": 990.0,
+    "particleCount": 50,
+    "initialRadius": 100.0,
+    "initialDistribution": [
+        2, 1, 1, 1, 1
+    ],
+    "initialMass": {
+        "min": 100.0,
+        "max": 500.0
+    }
+}
