@@ -8,7 +8,8 @@
 
 
 ## Published Builds ##
-* WebGL on [Play.Unity](https://play.unity.com/mg/other/gravitysim)
+* Windows: [Download](./Build/Releases/GravitySim_0_9_8_win.zip)
+* WebGL: [Play.Unity](https://play.unity.com/mg/other/gravitysim)
 
 
 ## Controls ##
