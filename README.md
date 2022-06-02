@@ -1,22 +1,14 @@
 # Gravity Sim #
 
-## Contents ##
-1. [Information](#information)
-2. [Controls](#controls)
- 1. [Movement](#movement)
- 2. [Camera](#camera)
- 3. [Modes](#modes)
- 4. [Other](#other)
-3. [Menu](#menu)
-4. [Configuration](#configuration)
- 1. [Reference Table](#reference)
- 2. [Example](#example)
-
 
 ## Information ##
 * **Author**: BinarySemaphore
 * **Version**: 0.9.8
 * **Description**: N-Body Simulation
+
+
+## Published Builds ##
+* WebGL on [Play.Unity](https://play.unity.com/mg/other/gravitysim)
 
 
 ## Controls ##
